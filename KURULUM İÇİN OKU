@@ -3,3 +3,10 @@ v3 SpaceBounceBrakes ve v3 LongBounce botumuzu uzun zaman sonra paylaşmaya kara
 Botumuz localstoragemanager plugini ile çalışmaktadır statslarımızı o pluginde tutuyoruz.
 
 Kurulumu resimler ile anlattım  sorunuz ve takılacağınız bir durum olursa discord üzerinden iletişime geçebilirsiniz. Discord adım aykakule
+
+Bot editinden anlayan var ise zaten içindeki herşeyi kendine göre ayarlayabilir.
+
+Rank sistemi mevcut (Discord entegresi yok)
+Gol olduktan sonra otomatik forma renk değiştiriyor (Siz ayarlıyorsunuz renkleri)
+vb.
+
