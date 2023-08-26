@@ -1,53 +1,53 @@
 # SpaceBounce-LongBounce-Bot
-v3 SpaceBounceBrakes ve v3 LongBounce botumuzu uzun zaman sonra paylaşmaya karar verdim dilediğiniz gibi değiştirebilir kullanabilirsiniz. Herhangi bir sıkıntısı yoktur. Nasıl çalıştıralacağını resimlerle gösterdim.
-Botumuz localstoragemanager plugini ile çalışmaktadır statslarımızı o pluginde tutuyoruz.
+I decided to share our v3 SpaceBounceBrakes and v3 LongBounce bot after a long time, you can change it as you wish. There is no problem. I showed you how to operate it with pictures.
+Our bot works with the localstoragemanager plugin and we keep our stats in that plugin.
 
-Kurulumu resimler ile anlattım  sorunuz ve takılacağınız bir durum olursa discord üzerinden iletişime geçebilirsiniz. Discord adım aykakule
+I explained the installation with pictures, and if you have a question, you can contact us via discord. Discord my name is aykakule
 
-Bot editinden anlayan var ise zaten içindeki herşeyi kendine göre ayarlayabilir.
+If there is anyone who understands the bot edit, he can adjust everything in it according to himself.
 
-Rank sistemi mevcut (Discord entegresi yok)
-Gol olduktan sonra otomatik forma renk değiştiriyor (Siz ayarlıyorsunuz renkleri)
-vb.
-
-Komutlar
-Odada hangi komutları kullanabilirim?
-!afk: Herkese 'klavyeden uzak' olduğunuzu gösterir, afk oyuncular oyuna eklenemez ve oynuyorlarsa oyundan çıkarılır.
-!noafk: AFK olduğunuzda bu komudu yazarak tekrar oynayabilmenizi sağlar.
-!afklar: Tüm afk oyuncularını gösterir.
-!bb: Odadan çık.
-!p: Oyunu durdurur. Tekrar yazarsanız devam ettirir.
-!komutlar: Mevcut tüm komutları gösterir.
-!onayla [parola]: Başka bir bilgisayara/tarayıcıya geçmek istiyorsanız, oluşturduğunuz şifre ile onaylayın.
-!t (mesajınız): Takım chatini kullanmanızı sağlar.
-!dm (oyuncu ismi): Özel mesaj atacağınız oyuncuya mesaj atmanızı sağlar.
-!stats [oyuncu ismi]: Onaylanmış herhangi bir oyuncunun istatistiklerini gösterir.
-!stats: İstatistiklerinizi gösterir.
-!clearStats (şifre): İstatistiğinizin sıfırlanmasını sağlar.
-!golSıralaması: Kayıtlı ve Kayıtsız oyuncuların en çok attığı gol sıralamasını gösterir. 
-!asistSıralaması: Kayıtlı ve Kayıtsız oyuncuların en çok attığı asist sıralamasını gösterir.
-!topgoals: Kayıtlı oyunculardan en çok gol atan oyuncuları görmenizi sağlar.
-!topassists: Kayıtlı oyunculardan en çok asist yapan oyuncuları görmenizi sağlar.
-!topwins: Kayıtlı oyunculardan en çok oyun kazanma yüzdesine sahip olan oyuncuları görmenizi sağlar.
-!seri: Odada üst üste kazanılan anlık maç sayısını gösterir.
-!rekorSeri: Odada en fazla üst üste maç kazanmış takım oyuncularını ve maç sayısını gösterir. 
+Rank system available (No Discord integration)
+Automatically changes the color of the jersey after a goal (You set the colors)
+etc.
 
 
-Onaylanmamış adminler
-!res: Oyunu yeniden başlatır.
-Onaylanmış adminler
-!(admin şifreniz): Admin olmanızı sağlar.
-!mute [oyuncu ismi]: Susturmak istediğiniz kişinin chate yazmamasını sağlar.
-!unmute [oyuncu ismi]: Susturduğunuz kişinin chate tekrardan yazmasını sağlar.
-!muteall: Odada bulunan admin hariç oyuncuların susturmasını sağlar.
-!unmuteall: Odada herkesin tekrardan konuşmasını sağlar.
-!clear: Banlı olan oyuncuların tekrardan odaya girebilmesini sağlar.
+commands
+What commands can I use in the room?
+!afk: Shows everyone that you are 'off the keyboard', afk players cannot be added to the game and will be removed from the game if they are playing.
+!noafk: Allows you to play again by typing this command when you are AFK.
+!afks: Shows all afk players.
+!bb: Exit the room.
+!p: Pauses the game. If you rewrite it, it will continue.
+!commands: Shows all available commands.
+!confirm [password]: If you want to switch to another computer/browser, confirm with the password you created.
+!t (your message): Allows you to use the team chat.
+!dm (player name): Allows you to send a private message to the player you will send a private message to.
+!stats [player name]: Shows the stats of any confirmed player.
+!stats: Shows your stats.
+!clearStats (password): Reset your stats.
+!goalsRanking: Shows the ranking of most goals scored by Registered and Unregistered players.
+!assistsRank: Shows the ranking of the most assists scored by Registered and Unregistered players.
+!topgoals: Allows you to see the top scorers of the registered players.
+!topassists: Allows you to see the players with the most assists from the registered players.
+!topwins: Allows you to see the players with the highest winning percentage of registered players.
+!series: Shows the number of instant matches won in a row in the room.
+!record Series: Shows the team players and the number of matches that have won the most consecutive matches in the room.
 
 
+Unapproved admins
+!res: Restarts the game.
+Approved admins
+!(your admin password): Allows you to become an admin.
+!mute [player name]: It ensures that the person you want to mute does not write to the chat.
+!unmute [player name]: Allows the muted person to re-write the chat.
+!muteall: Allows players to mute except the admin in the room.
+!unmuteall: Allows everyone in the room to speak again.
+!clear: Allows banned players to re-enter the room.
 
-Süper Admin Komutları
-!permaBan 
+
+Super Admin Commands
+!permaBan
 !remPermaBan
-!removeAdmin oyuncu adı
-!setAdmin oyuncu adı
-!setSuperAdmin oyuncu adı
+!removeAdmin player name
+!setAdmin player name
+!setSuperAdmin player name
