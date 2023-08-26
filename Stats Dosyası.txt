@@ -1,0 +1,9 @@
+{
+    "rekorSeriLong": "1",
+    "seridekiIsimlerLong": "\"Stârk 🎉 kiba 🎉 wiz-alfajer-gogli 🎉 \"",
+    "rekorSeriv3": "1",
+    "recordsLong": "[]",
+    "seridekiIsimlerv3": "\"wiz 🎉 Juhi 🎉 Muse 🎉 \"",
+    "records": "[]",
+    "geo": "{\"lat\":41.0214,\"lon\":28.9948,\"code\":\"tr\"}"
+}
