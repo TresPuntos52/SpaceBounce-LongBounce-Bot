@@ -34,7 +34,7 @@ var seridekiIsimler = "";
 var kazananBlueIsimler = "";
 var kazananRedIsimler = "";
 var muteCheck = false;
-var superAdminPw = "sjdksdjksdsdsffe!ldsds";
+var superAdminPw = "Haxballbounce";
 /**
  * Variables
  */
